@@ -387,6 +387,6 @@ Licensed under the MIT License. See [`LICENSE`](./LICENSE).
 
 - abhnish.1289@gmail.com
 - dev24.chinmay@gmail.com
-- namanroy9@gmail.com
+- nmnroy9@gmail.com
 
 Built for practical, transparent, and accountable public service delivery.
