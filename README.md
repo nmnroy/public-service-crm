@@ -8,6 +8,8 @@
 
 A modern civic complaint and grievance redressal platform that helps citizens raise issues, enables officers to resolve them quickly, and gives administrators actionable operational visibility through analytics, real-time events, and AI-assisted insights.
 
+**🚀 Live Demo:** [https://public-service-crm.vercel.app/login](https://public-service-crm.vercel.app/login)
+
 ---
 
 ## Table of Contents
