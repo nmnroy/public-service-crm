@@ -64,6 +64,12 @@ Municipal complaint handling is often fragmented and opaque: citizens do not get
 - **Backend**: Node.js, Express, TypeScript, Prisma ORM, BullMQ, Socket.IO
 - **Infrastructure**: PostgreSQL, Redis, MinIO, Docker Compose
 
+### 🖼️ Architecture Diagram
+
+<div align="center">
+  <img src="./docs/architecture.png" alt="Architecture Diagram" width="800" />
+</div>
+
 ---
 
 ## 🚀 Getting Started
@@ -158,13 +164,7 @@ VITE_API_URL=http://localhost:5001
 - **Logging**: Structured backend logs.
 - **Error Tracking**: Ready for Sentry DSN integration.
 
----
 
-## 🏗️ Architecture Diagram
-
-<div align="center">
-  <img src="./docs/architecture.png" alt="Architecture Diagram" width="800" />
-</div>
 
 ---
 
