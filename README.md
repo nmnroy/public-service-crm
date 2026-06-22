@@ -10,6 +10,8 @@ A modern civic complaint and grievance redressal platform that helps citizens ra
 
 **🚀 Live Demo:** [https://public-service-crm.vercel.app/login](https://public-service-crm.vercel.app/login)
 
+![Smart CRM Interface](./docs/screenshot.png)
+
 ---
 
 ## Table of Contents
