@@ -160,6 +160,14 @@ VITE_API_URL=http://localhost:5001
 
 ---
 
+## 🏗️ Architecture Diagram
+
+<div align="center">
+  <img src="./docs/architecture.png" alt="Architecture Diagram" width="800" />
+</div>
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
